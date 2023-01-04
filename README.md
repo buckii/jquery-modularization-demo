@@ -1,1 +1,1 @@
-# Jquery Modularization Demo# jquery-modularization-demo
+# Jquery Modularization Demo
